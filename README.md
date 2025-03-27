@@ -1,3 +1,96 @@
+Análise gramatical e Análise sintática
+
+Análise gramatical					Análise sintática
+------------------					-----------------
+artigo							sujeito
+substantivo						predicado
+adjetivo	     grupo de 				complemento verbal
+numeral		     classes				complemento nominal
+pronome		     variáveis				adjunto adverbial
+verbo							adjunto adnominal
+							predicativo
+
+preposição ... não assumem	grupo			agente da passiva
+interjeição .. função         	de              	aposto
+conjunção .... sintática	classes			vocativo
+advérbio 			inveariáveis
+        \_ funçao 
+           somente de 
+	   adjunto adverbial
+
+
+Nome da palavra é análise gramatical.
+Análise gramatical se divide em 2 grupos:
+  Classes variáveis: pode colocar no feminino no plural
+  Classes invariáveis
+
+Não assumem função sintática:
+  preposição
+  interjeição
+  conjunção
+
+Possui somente função de adjunto adverbial: advérbio
+
+Análise morfossintática:
+análise da classe gramatical e a
+função sintática ao mesmo tempo
+
+Adjetivo indica:
+qualidade, estado
+
+Adjetivo pode ter 2 funções:
+- adjunto adnominal
+- predicativo
+
+Adjetivo: funcionamento das 2 funções
+adjunto adnominal se ligado diretamento do substantivo
+predicativo se não ligada diretamente ao substantivo
+
+Predicativo:
+pode ser do sujeito ou do objeto
+
+O que tem a função de adjunto adnominal?
+classes gramaticais que podem aparecer
+juntas do nome, juntas de um substantivo.
+
+
+Adjuntos adnominais
+artigo		        adjetivo
+	  substantivo
+pronome	    (nome)	numeral
+
+/\ Classes que podem aparecer juntas do nome
+e suas locuções: pronominal, adjetiva.
+Classes que dependem de um substantivo.
+
+Pronome:
+classe para um substantivo que tem a
+função de indefinir, demonstrar,
+indicar posse
+
+Adjetivo:
+classe que qualifica um substantivo
+
+Numeral:
+classe que indica quantidade de substantivos
+
+
+
+Adjetivo - classe gramatical e função sintática:
+
+Classe que indica qualidade e estado para um substantivo.
+Função sintática de adjunto adnominal ou predicativo.
+
+Ex.:
+O aluno é inteligente.
+Inteligente:
+classe gramatical de adjetivo.
+Função sintática de predicativo, pois não está ligado diretamente ao substantivo
+(há um verbo entre o substantivo e o adjetivo)
+
+
+-----------------------
+
 Quanto à predicação, o verbo pode ser:
 
 a) transitivo -> terá a presença de um complemento (OBJETO)

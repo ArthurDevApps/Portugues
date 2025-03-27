@@ -172,10 +172,6 @@ companhia, modo ... é característica dos
 adjuntos adverbiais.
 
 ...  bebi nas esquinas com estranhos cervejas.
-    ---- ------------  ------------- --------
-    V.T.D.   adj. 	    adj.       O.D
-	     adv.           adv.
-	    lugar	  companhia
 
 nas esquinas (adj. adv. lugar)
 com estranhos (adj. adv. companhia)
@@ -195,8 +191,13 @@ no caso é direto (transitivo direto).
 -----------------------
 
 Complementará o sentido do verbo
-  -> objetos
-  -> adjuntos adverbiais (circunstâncias)
+
+
+  	-> objetos
+
+  
+  	-> adjuntos adverbiais (circunstâncias)
+
 
 Um verbo qualquer, ele apresentou complemento.
 O complemento de um verbo sempre será representado
